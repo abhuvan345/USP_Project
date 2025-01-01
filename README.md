@@ -6,32 +6,11 @@ A user-friendly **Student Enrollment System** built using **Bash scripting** and
 
 ## Features
 
-1. **Login System**:
-   - Admin login with username and password validation.
-
-2. **Student Enrollment**:
-   - Collects student details like name, phone number, email, course, and year of enrollment.
-   - Validates email format and phone number length.
-   - Displays confirmation dialog before saving.
-
-3. **Department-Wise Display**:
-   - View students enrolled in a specific department.
-
-4. **Courses Offered**:
-   - CSE (Computer Science & Engineering)
-   - ISE (Information Science & Engineering)
-   - AI & DS (Artificial Intelligence & Data Science)
-   - CS & IoT (Computer Science & Internet of Things)
-   - AI & ML (Artificial Intelligence & Machine Learning)
-   - ECE (Electronics & Communication Engineering)
-   - EEE (Electrical & Electronics Engineering)
-   - ET (Electronics & Telecommunication Engineering)
-   - ME (Mechanical Engineering)
-   - AT (Automotive Technology)
-
-5. **Email Notification**:
-   - Sends a confirmation email to students upon successful enrollment.
-
+1. **Login System**
+2. **Student Enrollment**
+3. **Department-Wise Display**
+4. **Courses Offered**
+5. **Email Notification**
 ---
 
 ## Technologies Used
